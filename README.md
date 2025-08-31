@@ -59,7 +59,7 @@ lib/common-utils
 2. **Processing**
    * Reads all services listed in the manifest.
    * Extracts the service name from the path.
-   * Extracts the version from `version.txt` or `package.json` (via `service.sh`).
+   * Extracts the version from `version.txt` or `package.json`.
    * Verifies if an artifact exists for the given service and version.
 
 ## ⚠️ Error Handling
