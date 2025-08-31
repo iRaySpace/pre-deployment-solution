@@ -1,0 +1,3 @@
+app/user-service
+app/product-service
+lib/common-utils
